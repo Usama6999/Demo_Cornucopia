@@ -1,0 +1,11 @@
+export const NAVBAR_HOME = "Home";
+export const NAVBAR_PRODUCT = "Product";
+export const NAVBAR_CONTACT = "Contact";
+export const NAVBAR_LOGIN = "Login";
+export const JOIN_VENTURE = "Join the venture";
+export const DISCOVER = "Discover";
+export const AI_BOOST = "AI Boost";
+export const AI_APP_DESCRIPTION = "Unlock the power of Artificial Intelligence with AI Boost, the cutting edge solution that tranforms the way you work. Say goodbye to manual tasks and hello to streamline efficiency and productivity.";
+export const ANALYTICS = "Analytics";
+export const AUTOMATION = "Automation";
+export const VIEW_PRODUCT = "View Product";
